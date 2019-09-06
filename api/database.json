@@ -1,24 +1,30 @@
 {
-    "profiles": [
-        {
-            "username": "Brenda",
-            "about": "Brenda is an Instructor at the Nashville Software School",
-            "id": 1
-        },
-        {
-            "username": "Adam",
-            "about": "Adam is an Instructor at the Nashville Software School",
-            "id": 2
-        },
-        {
-            "username": "Bryan",
-            "about": "Bryan is a Junior Instructor at the Nashville Software School",
-            "id": 3
-        },
-        {
-            "username": "Robbie",
-            "about": "Robbie is a Teaching Assistand at the Nashville Software School",
-            "id": 4
-        }
-    ]
+  "profiles": [
+    {
+      "username": "Brenda",
+      "about": "Brenda is an Instructor at the Nashville Software School",
+      "id": 1
+    },
+    {
+      "username": "Adam",
+      "about": "Adam is an Instructor at the Nashville Software School",
+      "id": 2
+    },
+    {
+      "username": "Bryan",
+      "about": "Bryan is a Junior Instructor at the Nashville Software School",
+      "id": 3
+    },
+    {
+      "username": "Robbie",
+      "about": "Robbie is a Teaching Assistand at the Nashville Software School",
+      "id": 4
+    },
+    {
+      "username": "Caroline",
+      "about": "Me",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/flaws-a-dating-app.appspot.com/o/images%2FCaroline-1567782086235?alt=media&token=07295d64-d3d9-4516-a45a-e0efb35f084d",
+      "id": 5
+    }
+  ]
 }
